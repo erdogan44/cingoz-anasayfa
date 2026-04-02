@@ -1,0 +1,7 @@
+streamlit
+pandas
+httpx
+pillow
+xlsxwriter
+firebase-admin
+google-generativeai
